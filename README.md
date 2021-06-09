@@ -1,4 +1,4 @@
-<h2> Hi, I'm Deepak! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Deepak Negi! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="230" style="border-radius:15%;margin-left:16px">
 <p><em>Full stack developer from India </br>
 Current working with <a href="https://github.com/dailykit" target="_blank">DailyKit</a>
