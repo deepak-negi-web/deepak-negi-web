@@ -1,7 +1,7 @@
 <h2> Hi, I'm Deepak! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="230" style="border-radius:16%">
 <p><em>Full stack developer from India </br>
-Current working with <a href="https://github.com/dailykit">DailyKit</a>
+Current working with <a href="https://github.com/dailykit" target="_blank">DailyKit</a>
 </em></p>
 
 [![Linkedin: Deepak Negi](https://img.shields.io/badge/-Deepak_Negi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak-negi-437716173/)](https://www.linkedin.com/in/deepak-negi-437716173/)
