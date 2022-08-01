@@ -9,7 +9,7 @@ I've have been learning code and making projects for 2 years, each and every tim
 * 🌍  I'm based in New Delhi,India
 * 🖥️  See my portfolio at [st.deepak.codework.codes](http://st.deepak.codework.codes/)
 * ✉️  You can contact me at [st.deepak15@gmail.com](mailto:st.deepak15@gmail.com)
-* 🚀  I'm currently working in [Dailykit](http://www.dailykit.org/)
+* 🚀  I'm currently working in [Alterest](https://www.alterest.co/)
 * 🧠  I'm learning Typescript and Unit Testing
 * ⚡  I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. :)
 
